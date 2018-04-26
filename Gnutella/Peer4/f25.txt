@@ -1,0 +1,42 @@
+Real-time operating systems[edit]
+Main article: Real-time operating system
+A real-time operating system (RTOS) is an operating system intended for applications with fixed deadlines (real-time computing). Such applications include some small embedded systems, automobile engine controllers, industrial robots, spacecraft, industrial control, and some large-scale computing systems.
+An early example of a large-scale real-time operating system was Transaction Processing Facility developed by American Airlines and IBM for the Sabre Airline Reservations System.
+Embedded systems that have fixed deadlines use a real-time operating system such as VxWorks, PikeOS, eCos, QNX, MontaVista Linux and RTLinux. Windows CE is a real-time operating system that shares similar APIs to desktop Windows but shares none of desktop Windows' codebase.[citation needed] Symbian OS also has an RTOS kernel (EKA2) starting with version 8.0b.
+Some embedded systems use operating systems such as Palm OS, BSD, and Linux, although such operating systems do not support real-time computing.
+Operating system development as a hobby[edit]
+See also: Hobbyist operating system development
+Operating system development is one of the most complicated activities in which a computing hobbyist may engage.[citation needed] A hobby operating system may be classified as one whose code has not been directly derived from an existing operating system, and has few users and active developers.[34]
+In some cases, hobby development is in support of a "homebrew" computing device, for example, a simple single-board computer powered by a 6502 microprocessor. Or, development may be for an architecture already in widespread use. Operating system development may come from entirely new concepts, or may commence by modeling an existing operating system. In either case, the hobbyist is his/her own developer, or may interact with a small and sometimes unstructured group of individuals who have like interests.
+Examples of a hobby operating system include Syllable.
+Diversity of operating systems and portability[edit]
+Application software is generally written for use on a specific operating system, and sometimes even for specific hardware.[citation needed] When porting the application to run on another OS, the functionality required by that application may be implemented differently by that OS (the names of functions, meaning of arguments, etc.) requiring the application to be adapted, changed, or otherwise maintained.
+Unix was the first operating system not written in assembly language, making it very portable to systems different from its native PDP-11.[35]
+This cost in supporting operating systems diversity can be avoided by instead writing applications against software platforms like Java or Qt. These abstractions have already borne the cost of adaptation to specific operating systems and their system libraries.
+Another approach is for operating system vendors to adopt standards. For example, POSIX and OS abstraction layers provide commonalities that reduce porting costs.
+Market share[edit]
+Main article: Usage share of operating systems
+2013 worldwide device shipments by operating system[36]
+Operating system	2012 (millions of units)	2013 (million of units)
+Android	504	878
+Windows	346	328
+iOS/Mac OS	214	267
+BlackBerry	35	24
+Others	1,117	803
+Total	2,216	2,300
+Source: Gartner
+In 2014, Android was first (currently not replicated by others, in a single year) operating system ever to ship on a billion devices, becoming the most popular operating system by installed base.
+See also[edit]
+icon	Computer Science portal
+	Information technology portal
+	Computer networking portal
+Antivirus software
+Comparison of operating systems
+Hypervisor
+Interruptible operating system
+List of important publications in operating systems
+List of operating systems
+List of pioneers in computer science
+Live CD
+Glossary of operating systems terms
+Microcontroller

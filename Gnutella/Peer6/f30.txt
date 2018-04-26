@@ -1,0 +1,59 @@
+TCSC (later NCSC)[edit]
+Edos – enhanced version of IBM's DOS/360 (and later DOS/VS and DOS/VSE) operating system for System/360 and System/370 IBM mainframes
+Texas Instruments[edit]
+TI-RTOS Kernel; Real-time operating system for TI's embedded devices.
+TRON Project[edit]
+TRON (open real-time operating system kernel)
+T-Kernel
+Unisys[edit]
+Unisys MCP
+Unisys OS 2200 operating system
+UNIVAC, Unisys[edit]
+EXEC I
+EXEC II
+EXEC 8 Ran on 1100 series.
+VS/9, successor to RCA TSOS
+Wang Laboratories[edit]
+WPS Wang Word Processing System. Micro-code based system.
+OIS Wang Office Information System. Successor to the WPS. Combined the WPS and VP/MVP systems.
+Wang VS Operating System (VSOS) – used on the VS line of minicomputer systems.
+WICAT[edit]
+WICAT Multiuser Computer System (WMCS). MC-68K multiuser O/S for their proprietary microcomputers, used mainly for CBT systems
+Wind River Systems[edit]
+VxWorks Small footprint, scalable, high-performance RTOS for embedded microprocessor based systems.[5]
+Other[edit]
+Lisp-based[edit]
+Lisp Machines, Inc. (also known as LMI) used an operating system written in MIT's Lisp Machine Lisp.
+Symbolics Genera written in a systems dialect of the Lisp programming language called ZetaLisp and Symbolics Common Lisp. Genera was ported to a virtual machine for the DEC Alpha line of computers.
+Texas Instruments' Explorer Lisp machine workstations also had systems code written in Lisp Machine Lisp.
+Xerox 1100 series of Lisp machines used an operating system also written in Interlisp, and was also ported to a virtual machine called "Medley."
+PilOS Stand alone operating system. It is a full blown 64-bit PicoLisp runs directly on a standard x86-64 PC hardware.
+Non-standard language-based[edit]
+Pilot operating system (used in Xerox Star workstations) was written in the Mesa programming language.
+PERQ Operating System (POS) was written in PERQ Pascal.
+Other proprietary non-Unix-like[edit]
+???????-1 (Elbrus-1) and ???????-2 used for application, job control, system programming,[6] implemented in u???-76 (AL-76).
+EOS; developed by ETA Systems for use in their ETA-10 line of supercomputers
+EMBOS; developed by Elxsi for use on their mini-supercomputers
+GCOS is a proprietary Operating System originally developed by General Electric
+MAI Basic Four; An OS implementing Business Basic from MAI Systems.
+Michigan Terminal System; Developed by a group of universities in the US, Canada, and the UK for use on the IBM System/360 Model 67, the System/370 series, and compatible mainframes
+MUSIC/SP; an operating system developed for the S/370, running normally under VM
+OS ES; an operating system for ES EVM
+PC-MOS/386; DOS-like, but multiuser/multitasking
+Prolog-Dispatcher; used to control Soviet Buran space ship.
+SINTRAN III; an operating system used with Norsk Data computers.
+SkyOS; commercial desktop OS for PCs
+THEOS
+TSX-32; a 32-bit operating system for x86 platform.
+TX990/TXDS, DX10 and DNOS; proprietary operating systems for TI-990 minicomputers
+Other proprietary Unix-like and POSIX-compliant[edit]
+Aegis (Apollo Computer)
+Amiga Unix (Amiga ports of Unix System V release 3.2 with Amiga A2500UX and SVR4 with Amiga A3000UX. Started in 1990, last version was in 1992)
+Coherent (Unix-like OS from Mark Williams Co. for PC class computers)
+DC/OSx (DataCenter/OSx was an operating system for MIPS based systems developed by Pyramid Technology)
+DG/UX (Data General Corp)
+DNIX from DIAB
+DSPnano RTOS (POSIX nanokernel, DSP Optimized, Open Source)
+HeliOS developed and sold by Perihelion Software mainly for transputer based systems
+Interactive Unix (a port of the UNIX

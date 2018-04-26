@@ -1,0 +1,101 @@
+Other proprietary Unix-like and POSIX-compliant[edit]
+Aegis (Apollo Computer)
+Amiga Unix (Amiga ports of Unix System V release 3.2 with Amiga A2500UX and SVR4 with Amiga A3000UX. Started in 1990, last version was in 1992)
+Coherent (Unix-like OS from Mark Williams Co. for PC class computers)
+DC/OSx (DataCenter/OSx was an operating system for MIPS based systems developed by Pyramid Technology)
+DG/UX (Data General Corp)
+DNIX from DIAB
+DSPnano RTOS (POSIX nanokernel, DSP Optimized, Open Source)
+HeliOS developed and sold by Perihelion Software mainly for transputer based systems
+Interactive Unix (a port of the UNIX System V operating system for Intel x86 by Interactive Systems Corporation)
+IRIX from SGI
+MeikOS
+NeXTSTEP (developed by NeXT; a Unix-based OS based on the Mach microkernel)
+OS-9 Unix-like RTOS. (OS from Microware for Motorola 6809 based microcomputers)
+OS9/68K Unix-like RTOS. (OS from Microware for Motorola 680x0 based microcomputers; based on OS-9)
+OS-9000 Unix-like RTOS. (OS from Microware for Intel x86 based microcomputers; based on OS-9, written in C)
+OSF/1 (developed into a commercial offering by Digital Equipment Corporation)
+OpenStep
+QNX (POSIX, microkernel OS; usually a real time embedded OS)
+Rhapsody (an early form of Mac OS X)
+RISC iX – derived from BSD 4.3, by Acorn computers, for their ARM family of machines
+RISC/os (a port by MIPS of 4.3BSD to the RISC MIPS architecture)
+RMX
+SCO UNIX (from SCO, bought by Caldera who renamed themselves SCO Group)
+SINIX (a port by SNI of Unix to the RISC MIPS architecture)
+Solaris (from Sun, bought by Oracle; a System V-based replacement for SunOS)
+SunOS (BSD-based Unix system used on early Sun hardware)
+SUPER-UX (a port of System V Release 4.2MP with features adopted from BSD and Linux for NEC SX architecture supercomputers)
+System V (a release of AT&T Unix, 'SVR4' was the 4th minor release)
+System V/AT, 386 (The first version of AT&T System V UNIX on the IBM 286 and 386 PCs, ported and sold by Microport)
+Trusted Solaris (Solaris with kernel and other enhancements to support multilevel security)
+UniFLEX (Unix-like OS from TSC for DMA-capable, extended addresses, Motorola 6809 based computers; e.g. SWTPC, GIMIX and others)
+Unicos (the version of Unix designed for Cray Supercomputers, mainly geared to vector calculations)
+UTX-32 (Developed by Gould CSD (Computer System Division), a Unix-based OS that included both BSD and System V characteristics. It was one of the first Unix based systems to receive NSA's C2 security level certification.)
+Zenix, Zenith corporations Unix (a popular USA electronics maker at the time)
+Non-proprietary[edit]
+Unix-like[edit]
+Research and other POSIX-compliant[edit]
+MINIX (study OS developed by Andrew S. Tanenbaum in the Netherlands)
+Plan 9 from Bell Labs (distributed OS developed at Bell Labs, based on original Unix design principles yet functionally different and going much further)
+Inferno (distributed OS derived from Plan 9, originally from Bell Labs)
+Plan B (distributed OS derived from Plan 9 and Off++ microkernel)
+Unix (OS developed at Bell Labs ca 1970 initially by Ken Thompson)
+Xinu (Study OS developed by Douglas E. Comer in the United States)
+Free and open source[edit]
+
+Ubuntu, an example of a Linux-based system
+BSD (Berkeley Software Distribution, a variant of Unix for DEC VAX hardware)
+FreeBSD (one of the outgrowths of UC Regents' abandonment of CSRG's 'BSD Unix')
+DragonFlyBSD, forked from FreeBSD 4.8
+Darwin, created by Apple using FreeBSD and NeXTSTEP
+GhostBSD
+TrueOS (previously known as PC-BSD)
+NetBSD (an embedded device BSD variant)
+OpenBSD forked from NetBSD
+Bitrig forked from OpenBSD
+GNU
+Linux
+See also: List of Linux distributions
+Android x86
+Cray Linux Environment
+illumos, contains original Unix (SVR4) code derived from the OpenSolaris (discontinued by Oracle in favor of Solaris 11 Express)
+OpenIndiana, operates under the illumos Foundation. Uses the illumos kernel, which is a derivative of OS/Net, which is basically an OpenSolaris/Solaris kernel with the bulk of the drivers, core libraries, and basic utilities.
+Nexenta OS, based on the illumos kernel with Ubuntu packages
+SmartOS, an illumos distribution for cloud computing with Kernel-based Virtual Machine integration.
+RTEMS (Real-Time Executive for Multiprocessor Systems)
+Syllable Desktop
+Univention Corporate Server
+VSTa
+FMI/OS, successor of VSTa
+Other[edit]
+Plurix
+TUNIS (University of Toronto)
+Non-Unix-like[edit]
+Research[edit]
+Amoeba (research OS by Andrew S. Tanenbaum)
+Croquet
+EROS microkernel, capability-based
+CapROS microkernel EROS successor.
+Coyotos microkernel EROS successor, goal: be first formally verified OS.
+HelenOS research and experimental operating system
+House – Haskell User's Operating System and Environment, research OS written in Haskell and C
+ILIOS Research OS designed for routing
+L4 second generation microkernel
+Mach (from OS kernel research at Carnegie Mellon University; see NeXTSTEP)
+Nemesis Cambridge University research OS – detailed quality of service abilities
+Spring (research OS from Sun Microsystems)
+THE multiprogramming system by Dijkstra in 1968, at the Eindhoven University of Technology in the Netherlands, introduced the first form of software-based memory segmentation, freeing programmers from being forced to use actual physical locations
+V from Stanford, early 1980s[7]
+Free and open source[edit]
+Cosmos (written in C#)
+FreeDOS (open source DOS variant)
+Haiku (open source inspired by BeOS, under development)
+Ghost OS (written in Assembly, C/C++)
+ITS written by MIT students (for the PDP-6 and PDP-10) (written in MIDAS)
+osFree OS/2 Warp open source clone.
+OSv (written in C++)
+Phantom OS (persistent object oriented)
+ReactOS, open source OS designed to be binary compatible with Windows NT and its variants (Windows XP, Windows 2000, etc.); currently in development phase
+SharpOS (written in .NET C#)
+TempleOS (written in HolyC)

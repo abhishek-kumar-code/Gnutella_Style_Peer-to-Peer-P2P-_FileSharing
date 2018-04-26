@@ -1,0 +1,104 @@
+Digital Equipment Corporation, Tandem Computers, Compaq, Hewlett-Packard[edit]
+Domain/OS (originally Aegis, from Apollo Computer who were bought by HP)
+HP-UX
+Multi-Programming Executive (from HP)
+NonStop
+OS/8
+RSTS/E (multi-user time-sharing OS for PDP-11s)
+RSX-11 (multiuser, multitasking OS for PDP-11s)
+RT-11 (single user OS for PDP-11)
+TOPS-10 (for the PDP-10)
+TENEX (an ancestor of TOPS-20 from BBN, for the PDP-10)
+TOPS-20 (for the PDP-10)
+Digital UNIX (derived from OSF/1, became HP's Tru64 UNIX)
+Ultrix
+VMS (originally by DEC and HP now by VMS Software Inc.) for the VAX mini-computer range, Alpha and Intel Itanium i2 and i4; later renamed OpenVMS)
+WAITS (for the PDP-6 and PDP-10)
+ENEA AB[edit]
+OSE Flexible, small footprint, high-performance RTOS for control processors
+Fujitsu[edit]
+Towns OS
+General Electric[edit]
+Real-Time Multiprogramming Operating System
+Google[edit]
+
+Android 4.0.1 on the Galaxy Nexus
+Google Chrome OS is designed to work exclusively with web applications. Announced on July 7, 2009, Chrome OS is currently publicly available and was released summer 2011. The Chrome OS source code was released on November 19, 2009, under the BSD license as Chromium OS.
+Chromium OS is an open source operating system development version of Google Chrome OS. Both operating systems are based on the Linux kernel.
+Android is an operating system for mobile devices. It consists of Android Runtime (userland) with Linux (kernel), with its Linux kernel modified to add drivers for mobile device hardware and to remove unused Vanilla Linux drivers.
+Green Hills Software[edit]
+INTEGRITY Reliable Operating system
+INTEGRITY-178B A DO-178B certified version of INTEGRITY.
+µ-velOSity A lightweight microkernel.
+Heathkit, Zenith Data Systems[edit]
+HDOS; ran on the H8 and Heath/Zenith Z-89 series
+HT-11 (a modified version of RT-11) ran on the Heathkit H11
+Hewlett-Packard[edit]
+HP Multi-Programming Executive (MPE, MPE/XL, and MPE/iX) runs on HP 3000 and HP e3000 mini-computers
+HP-UX; runs on HP9000 and Itanium servers – from small to mainframe-class computers
+NonStop OS; runs on HP's NonStop line of Itanium servers
+Honeywell[edit]
+Multics
+GCOS
+CP-6
+Intel Corporation[edit]
+iRMX; real-time operating system originally created to support the Intel 8080 and 8086 processor families in embedded applications.
+ISIS, ISIS-II; "Intel Systems Implementation Supervisor" was a environment for development of software within the Intel microprocessor family in the early 1980s on their Intellec Microcomputer Development System and clones. ISIS-II worked with 8 inch floppy disks and had an editor, cross-assemblers, a linker, an object locator, debugger, compilers for PL/M, a BASIC interpreter, etc. and allowed file management through a console.
+IBM[edit]
+Further information: History of IBM mainframe operating systems
+On early mainframes: 1400, 1800, 701, 704, 709, 7090, 7094[edit]
+BESYS (for the IBM 7090)
+CTSS (The Compatible Time-Sharing System, developed at MIT's Computation Center for use on a modified IBM 7094)
+GM OS & GM-NAA I/O (for the IBM 704)
+IBSYS (tape based operating system for IBM 7090 and IBM 7094)
+IJMON (A bootable serial I/O monitor for loading programs for IBM 1400 and IBM 1800)
+SOS (SHARE Operating System, for the IBM 704 and 709)
+UMES (University of Michigan Executive System, for the IBM 704, 709, and 7090)
+On S/360, S/370, and successor mainframes[edit]
+OS/360 and successors on IBM S/360, S/370, and successor mainframes
+OS/360 (first official OS targeted for the System/360 architecture),
+Saw customer installations of the following variations:
+PCP (Primary Control Program, a kernel and a ground breaking automatic space allocating file system)
+MFT (original Multi-programming with a Fixed number of Tasks, replaced by MFT II)
+MFT II (Multi-Programming with a Fixed number of Tasks, had up to 15 fixed size application partitions, plus partitions for system tasks, initially defined at boot time but redefinable by operator command)
+MVT (Multi-Programming Variable Tasks, had up to 15 application regions defined dynamically, plus additional regions for system tasks)
+OS/VS (port of OS/360 targeted for the System/370 virtual memory architecture, "OS/370" is not correct name for OS/VS1 and OS/VS2, but rather refers to OS/VS2 MVS and MVS/SP Version 1),
+Customer installations in the following variations:
+SVS (Single Virtual Storage, both VS1 & VS2 began as SVS systems)
+OS/VS1 (Operating System/Virtual Storage 1, Virtual-memory version of MFT II)
+OS/VS2 (Operating System/Virtual Storage 2, Virtual-memory version of OS/MVT but without multiprocessing support)
+OS/VS2 R2 (called Multiple Virtual Storage, MVS, eliminated most need for VS1)
+MVS/SE (MVS System Extensions)
+MVS/SP (MVS System Product)
+MVS/XA (MVS/SP V2. MVS supported eXtended Architecture, 31-bit addressing)
+MVS/ESA (MVS supported Enterprise System Architecture, horizontal addressing extensions: data only address spaces called Dataspaces; a Unix environment was available starting with MVS/ESA V4R3)
+OS/390 (Upgrade from MVS, with an additional Unix environment)
+z/OS (OS/390 supported z/Architecture, 64-bit addressing)
+DOS/360 and successors on IBM S/360, S/370, and successor mainframes
+BOS/360 (early interim version of DOS/360, briefly available at a few Alpha & Beta System/360 sites)
+TOS/360 (similar to BOS above and more fleeting, able to boot and run from 2x00 series tape drives)
+DOS/360 (Disk Operating System (DOS), multi-programming system with up to 3 partitions, first commonly available OS for System/360)
+DOS/360/RJE (DOS/360 with a control program extension that provided for the monitoring of remote job entry hardware (card reader & printer) connected by dedicated phone lines)
+DOS/VS (First DOS offered on System/370 systems, provided virtual storage)
+DOS/VSE (also known as VSE, upgrade of DOS/VS, up to 14 fixed size processing partitions )
+VSE/SP (program product replacing DOS/VSE and VSE/AF)
+VSE/ESA (DOS/VSE extended virtual memory support to 32-bit addresses (Extended System Architecture)).
+z/VSE (latest version of the four decades old DOS lineage, supports 64-bit addresses, multiprocessing, multiprogramming, SNA, TCP/IP, and some virtual machine features in support of Linux workloads)
+CP/CMS (Control Program/Cambridge Monitor System) and successors on IBM S/360, S/370, and successor mainframes
+CP-40/CMS (for System/360 Model 40)
+CP-67/CMS (for System/360 Model 67)
+VM/370 (Virtual Machine / Conversational Monitor System, virtual memory operating system for System/370)
+VM/XA (VM/eXtended Architecture for System/370 with extended virtual memory)
+VM/ESA (Virtual Machine / Extended System Architecture, added 31-bit addressing to VM series)
+z/VM (z/Architecture version of the VM OS with 64-bit addressing)
+Further information: History of CP/CMS
+TPF Line (Transaction Processing Facility) on IBM S/360, S/370, and successor mainframes (largely used by airlines)
+ACP (Airline Control Program)
+TPF (Transaction Processing Facility)
+z/TPF (z/Architecture extension)
+Unix-like on IBM S/360, S/370, and successor mainframes
+AIX/370 (IBM's Advanced Interactive eXecutive, a System V Unix version)
+AIX/ESA (IBM's Advanced Interactive eXecutive, a System V Unix version)
+OpenSolaris for IBM System z
+UTS (developed by Amdahl)
+z/Linux

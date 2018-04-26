@@ -1,0 +1,52 @@
+Cambridge CAP computer operating system demonstrated the use of security capabilities, both in hardware and software, also a useful fileserver, implemented in ALGOL 68C
+Flex machine – Custom microprogrammable hardware, with an operating system, (modular) compiler, editor, * garbage collector and filing system all written in ALGOL 68.
+HYDRA – Running on the C.mmp computer at Carnegie Mellon University, implemented in the programming language BLISS[15]
+KeyKOS nanokernel
+EROS microkernel
+CapROS EROS successor
+Coyotos EROS successor, goal: be first formally verified OS
+V from Stanford, early 1980s[7]
+See also[edit]
+Comparison of operating systems
+Comparison of real-time operating systems
+Timeline of operating systems
+Category links[edit]
+Operating systems
+Embedded operating systems
+Real-time operating systems
+References[edit]
+Jump up ^ "4.5.1. What are the characteristics of the Lisa Workshop?". Lisafaq.sunder.net. 2006-11-12. Retrieved 2013-09-21.
+Jump up ^ "Operating System Reference Manual for the Lisa" (PDF). Pagetable.com. Retrieved 2013-09-21.
+Jump up ^ "RTOS: extending OS/360 for real time spaceflight control", J. L. Johnstone, in AFIPS '69 (Spring) Proceedings of the May 14–16, 1969, spring joint computer conference, pages 15-27.
+Jump up ^ "SCO History by William Bader". Retrieved 2010-03-12.
+^ Jump up to: a b http://www.windriver.com/products/vxworks/
+Jump up ^ "??????? ??????? ? Pentium ????????????". Ixbt.com. Retrieved 2013-09-21.
+^ Jump up to: a b "Capability-Based Computer Systems" (PDF). Cs.washington.edu. Retrieved 2013-09-21.
+Jump up ^ http://www.redox-os.org/
+Jump up ^ "JNode 0.2.8 Released", Thom Holwerda, OSNews, 4 February 2009.
+Jump up ^ Jnode: Java New Operating System Design Effort, jnode.org. Retrieved 24 July 2014.
+Jump up ^ "Fujitsu Extended System Architecture (EXA) Operating System" (PDF). Fujitsu.com. Retrieved 2013-09-21.
+Jump up ^ "HP News - LG Electronics Acquires webOS from HP to Enhance Smart TV". .hp.com. 2013-02-25. Retrieved 2013-09-21.
+Jump up ^ "Free GNU/Linux distributions". 2013-04-10. Retrieved 2013-10-01.; "LibreWRT". 2013-07-25. Retrieved 2013-10-01.
+Jump up ^ http://www.qnx.com/
+Jump up ^ Wulf, William A.; Harbison, Samual P. "Reflections in a pool of processors - An experience report on C.mmp/Hydra" (PDF). University of Auckland. p. 945. Retrieved 2013-09-21.
+External links[edit]
+A catalog of operating systems
+Large list of operating systems
+Google Spreadsheet with OS List
+[hide] v t e
+e Microkernel User space
+Process management	
+Concepts
+Context switch Interrupt IPC Process Process control block Real-time Thread Time-sharing
+Scheduling
+algorithms
+Computer multitasking Fixed-priority preemptive Multilevel feedback queue Preemptive Round-robin Shortest job next
+Memory management and
+resource protection	
+Bus error General protection fault Memory protection Paging Protection ring Segmentation fault Virtual memory
+Storage access and
+file systems	
+Boot loader Defragmentation Device file File attribute Inode Journal Partition Virtual file system Virtual tape library
+List	
+AmigaOS Android BeOS B

@@ -1,0 +1,3 @@
+Q1. (Chapter 1, Problem 2) What is the role of middleware in a distributed system?
+A: The middleware extends over multiple machines, offers the single-systemview, and
+enhances the distribution transparency that a distributed system should have.

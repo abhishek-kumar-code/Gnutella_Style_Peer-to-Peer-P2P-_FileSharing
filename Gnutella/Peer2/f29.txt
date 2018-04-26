@@ -1,0 +1,48 @@
+Others on IBM S/360, S/370, and successor mainframes:
+BOS/360 (Basic Operating System)
+MTS (Michigan Terminal System, developed by a group of universities in the US, Canada, and the UK for the IBM System/360 Model 67, System/370 series, and compatible mainframes)
+RTOS/360 (IBM's Real Time Operating System, ran on 5 NASA custom System/360-75s)[3]
+TOS/360 (Tape Operating System)
+TSS/360 (IBM's Time Sharing System)
+MUSIC/SP (developed by McGill University for IBM System/370)
+ORVYL and WYLBUR (developed by Stanford University for IBM System/360)
+On PC and Intel x86 based architectures[edit]
+PC DOS, IBM DOS
+PC DOS 1.x, 2.x, 3.x (developed jointly with Microsoft)
+IBM DOS 4.x, 5.0 (developed jointly with Microsoft)
+PC DOS 6.1, 6.3, 7, 2000, 7.10
+See also: MS-DOS and Windows
+OS/2
+OS/2 1.x (developed jointly with Microsoft)
+OS/2 2.x
+OS/2 Warp 3
+OS/2 Warp 4
+eComStation (Warp 4.5/Workspace on Demand, rebundled by Serenity Systems International)
+IBM 4680 OS version 1 to 4, a POS operating system based on Digital Research's Concurrent DOS 286 and FlexOS 286 1.xx
+IBM 4690 OS version 1 to 6.3, a successor to 4680 OS based on Novell's FlexOS 286/FlexOS 386 2.3x
+Toshiba 4690 OS version 6.4, a successor to 4690 OS 6.3
+On other hardware platforms[edit]
+IBM Series/1
+EDX (Event Driven Executive)
+RPS (Realtime Programming System)
+CPS (Control Programming Support, subset of RPS)
+SerIX (Unix on Series/1)
+IBM 1130
+DMS (Disk Monitor System)
+IBM 1800
+TSX (Time Sharing eXecutive)
+MPX (Multi Programming eXecutive)
+IBM 8100
+DPCX (Distributed Processing Control eXecutive)
+DPPX (Distributed Processing Programming Executive)
+IBM System/3
+DMS (Disk Management System)
+IBM System/34, IBM System/36IBM System/38
+CPF (Control Program Facility)
+IBM System/88
+Stratus VOS (developed by Stratus, and used for IBM System/88, Original equipment manufacturer from Stratus)
+AS/400, iSeries, System i, Power Systems i Edition
+OS/400 (descendant of System/38 CPF, include System/36 SSP environment)
+i5/OS (extends OS/400 with significant interoperability features)
+IBM i (extends i5/OS)
+UNIX on IBM POWER

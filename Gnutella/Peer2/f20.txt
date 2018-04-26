@@ -1,0 +1,99 @@
+LynxOS
+Micrium Inc.[edit]
+MicroC/OS-II (small pre-emptive priority based multi-tasking kernel)
+MicroC/OS-III (small pre-emptive priority based multi-tasking kernel, with unlimited number of tasks and priorities, and round robin scheduling)
+Microsoft Corporation[edit]
+Xenix (licensed version of Unix; licensed to SCO in 1987)
+MSX-DOS (developed by MS Japan for the MSX 8-bit computer)
+MS-DOS (developed jointly with IBM, versions 1.0–6.22)
+Windows (16-bit and 32-bit preemptive and cooperative multitasking, running atop MS-DOS)
+Windows 1.0 (Windows 1)
+Windows 2.0 (Windows 2 – separate version for i386 processor)
+Windows 3.0 (Windows 3)
+Windows 3.1x (Windows 3.1)
+Windows for Workgroups 3.1 (Codename Snowball)
+Windows 3.2 (Chinese-only release)
+Windows for Workgroups 3.11
+Windows 95 (codename Chicago – Windows 4.0)
+Windows 98 (codename Memphis – Windows 4.1)
+Windows Millennium Edition (Windows ME – Windows 4.9)
+Windows NT (Full 32-bit or 64-bit kernel, not dependent on MS-DOS)
+Windows NT 3.1
+Windows NT 3.5
+Windows NT 3.51
+Windows NT 4.0
+Windows 2000 (Windows NT 5.0)
+Windows XP (Windows NT 5.1)
+Windows Server 2003 (Windows NT 5.2)
+Windows Fundamentals for Legacy PCs (based on Windows XP)
+Windows Vista (Windows NT 6.0)
+Windows Azure (Cloud OS Platform) 2009
+Windows Home Server (based on Windows Server 2003)
+Windows Server 2008 (based on Windows Vista)
+Windows 7 (Windows NT 6.1)
+Windows Server 2008 R2 (based on Windows 7)
+Windows Home Server 2011 (based on Windows Server 2008 R2)
+Windows Server 2012 (based on Windows 8)
+Windows 8 (Windows NT 6.2)
+Windows Phone 8
+Windows 8.1 (Windows NT 6.3)
+Windows Server 2012 R2 (based on Windows 8.1)
+Xbox One system software
+Windows Phone 8.1
+Windows 10 (Windows NT 10.0)
+Windows 10 Mobile
+Windows Server 2016
+Windows CE (OS for handhelds, embedded devices, and real-time applications that is similar to other versions of Windows)
+Windows CE 3.0
+Windows CE 5.0
+Windows CE 6.0
+Windows Mobile (based on Windows CE, but for a smaller form factor)
+Windows Phone 7
+Singularity – A research operating system written mostly in managed code (C#)
+Midori – A managed code operating system
+Xbox 360 system software
+Xbox One system software
+MontaVista[edit]
+MontaVista Mobilinux
+NCR Corporation[edit]
+TMX – Transaction Management eXecutive
+IMOS - Interactive Multiprogramming Operating System (circa 1978), for the NCR Century 8200 series minicomputers
+VRX - Virtual Resource eXecutive
+Nintendo[edit]
+es is a computer operating system developed originally by Nintendo and since 2008 by Esrille. It is open source and runs natively on x86 platforms.
+Novell[edit]
+NetWare network operating system providing high-performance network services. Has been superseded by Open Enterprise Server line, which can be based on NetWare or Linux to provide the same set of services.
+UnixWare
+Novell "SuperNOS", a never released merge of NetWare and UnixWare
+Novell "Corsair"
+Novell "Exposé"
+Open Enterprise Server, the successor to NetWare.
+Quadros Systems[edit]
+RTXC Quadros RTOS proprietary C-based RTOS used in embedded systems
+RCA[edit]
+TSOS, first OS supporting virtual addressing of the main storage and support for both timeshare and batch interface
+RoweBots[edit]
+DSPnano RTOS 8/16 Bit Ultra Tiny Embedded Linux Compatible RTOS
+Unison RTOS 32 Bit Open Standards, Linux Compatible, Ultra Tiny Size, Modularity, POSIX-compliant RTOS that supports a variety of wireless modules and provides a complete set of security protocols
+Samsung Electronics[edit]
+Bada
+Tizen
+SCO, SCO Group[4][edit]
+Xenix, Unix System III based distribution for the Intel 8086/8088 architecture
+Xenix 286, Unix System V Release 2 based distribution for the Intel 80286 architecture
+Xenix 386, Unix System V Release 2 based distribution for the Intel 80386 architecture
+SCO Unix, SCO UNIX System V/386 was the first volume commercial product licensed by AT&T to use the UNIX System trademark (1989). Derived from AT&T System V Release 3.2 with an infusion of Xenix device drivers and utilities plus most of the SVR4 features
+SCO Open Desktop, the first 32-bit graphical user interface for UNIX Systems running on Intel processor-based computers. Based on SCO Unix
+SCO OpenServer 5, AT&T UNIX System V Release 3 based
+SCO OpenServer 6, SVR5 (UnixWare 7) based kernel with SCO OpenServer 5 application and binary compatibility, system administration, and user environments
+UnixWare
+UnixWare 2.x, based on AT&T System V Release 4.2MP
+UnixWare 7, UnixWare 2 kernel plus parts of 3.2v5 (UnixWare 2 + OpenServer 5 = UnixWare 7). Referred to by SCO as SVR5
+Scientific Data Systems (SDS)[edit]
+Berkeley Timesharing System for the SDS 940
+Sciopta Systems GmbH[edit]
+SCIOPTA Pre-emptive, priority-based real-time kernel (IEC61508 certified)
+SYSGO[edit]
+PikeOS is a certified real time operating system for safety and security critical embedded systems
+Tandy Corporation[edit]
+TRSDOS; A floppy-disk-oriented OS supplied by Tandy/Radio Shack for their Z80-based l

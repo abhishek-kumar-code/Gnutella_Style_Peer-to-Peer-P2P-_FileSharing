@@ -1,0 +1,137 @@
+Disk operating systems (DOS)[edit]
+Main article: DOS
+86-DOS (developed at Seattle Computer Products by Tim Paterson for the new Intel 808x CPUs; licensed to Microsoft, became PC DOS/MS-DOS. Also known by its working title QDOS.)
+PC DOS (IBM's DOS variant, developed jointly with Microsoft, versions 1.0–7.0, 2000, 7.10)
+MS-DOS (Microsoft's DOS variant for OEM, developed jointly with IBM, versions 1.x–6.22 Microsoft's now abandoned DOS variant)
+Concurrent CP/M-86 3.1 (BDOS 3.1) with PC-MODE (Digital Research's successor of CP/M-86 and MP/M-86)
+Concurrent DOS 3.1-4.1 (BDOS 3.1-4.1)
+Concurrent PC DOS 3.2 (BDOS 3.2) (Concurrent DOS variant for IBM compatible PCs)
+DOS Plus 1.1, 1.2 (BDOS 4.1), 2.1 (BDOS 5.0) (single-user, multi-tasking system derived from Concurrent DOS 4.1-5.0)
+Concurrent DOS 8-16 (dual-processor variant of Concurrent DOS for 8086 and 8080 CPUs)
+Concurrent DOS 286 1.x
+FlexOS 1.00-2.34 (derivative of Concurrent DOS 286)
+FlexOS 186 (variant of FlexOS for terminals)
+FlexOS 286 (variant of FlexOS for hosts)
+Siemens S5-DOS/MT (industrial control system based on FlexOS)
+IBM 4680 OS (POS operating system based on FlexOS)
+IBM 4690 OS (POS operating system based on FlexOS)
+Toshiba 4690 OS (POS operating system based on IBM 4690 OS and FlexOS)
+FlexOS 386 (later variant of FlexOS for hosts)
+IBM 4690 OS (POS operating system based on FlexOS)
+Toshiba 4690 OS (POS operating system based on IBM 4690 OS and FlexOS)
+Concurrent DOS 386 1.0, 1.1, 2.0, 3.0 (BDOS 5.0-6.2)
+Concurrent DOS 386/MGE (Concurrent DOS 386 variant with advanced graphics terminal capabilities)
+Multiuser DOS 5.0, 5.01, 5.1 (BDOS 6.3-6.6) (successor of Concurrent DOS 386)
+CCI Multiuser DOS 5.0-7.22 (up to BDOS 6.6)
+Datapac Multiuser DOS
+Datapac System Manager 7 (derivative of Datapac Multiuser DOS)
+IMS Multiuser DOS 5.1, 7.0, 7.1 (BDOS 6.6-6.7)
+IMS REAL/32 7.50, 7.51, 7.52, 7.53, 7.54, 7.60, 7.61, 7.62, 7.63, 7.70, 7.71, 7.72, 7.73, 7.74, 7.80, 7.81, 7.82, 7.83, 7.90, 7.91, 7.92, 7.93, 7.94, 7.95 (BDOS 6.8 and higher) (derivative of Multiuser DOS)
+IMS REAL/NG (successor of REAL/32)
+Concurrent DOS XM 5.0, 5.2, 6.0, 6.2 (BDOS 5.0-6.2) (real-mode variant of Concurrent DOS with EEMS support)
+DR DOS 3.31, 3.32, 3.33, 3.34, 3.35, 5.0, 6.0 (BDOS 6.0-7.1) single-user, single-tasking native DOS derived from Concurrent DOS 6.0)
+Novell PalmDOS 1 (BDOS 7.0)
+Novell DR DOS "StarTrek"
+Novell DOS 7 (single-user, multi-tasking system derived from DR DOS, BDOS 7.2)
+Novell DOS 7 updates 1-10 (BDOS 7.2)
+Caldera OpenDOS 7.01 (BDOS 7.2)
+Enhanced DR-DOS 7.01.0x (BDOS 7.2)
+Dell Real Mode Kernel (DRMK)
+Novell DOS 7 updates 11-15.2 (BDOS 7.2)
+Caldera DR-DOS 7.02-7.03 (BDOS 7.3)
+DR-DOS "WinBolt"
+OEM DR-DOS 7.04-7.05 (BDOS 7.3)
+OEM DR-DOS 7.06 (PQDOS)
+OEM DR-DOS 7.07 (BDOS 7.4/7.7)
+FreeDOS (open source DOS variant)
+ProDOS (operating system for the Apple II series computers)
+PTS-DOS (DOS variant by Russian company Phystechsoft)
+TurboDOS (Software 2000, Inc.) for Z80 and Intel 8086 processor-based systems
+Multi-tasking user interfaces and environments for DOS
+DESQview + QEMM 386 multi-tasking user interface for DOS
+DESQView/X (X-windowing GUI for DOS)
+Network operating systems[edit]
+Main article: Network operating system
+Banyan VINES (Banyan Systems)
+Cambridge Ring
+Cisco IOS by Cisco Systems
+CSIRONET by (CSIRO)
+CTOS (Convergent Technologies, later acquired by Unisys)
+Data ONTAP by NetApp
+Enterprise OS by McDATA
+ExtremeWare by Extreme Networks
+ExtremeXOS by Extreme Networks
+Fabric OS by Brocade
+JunOS by Juniper
+NetWare (networking OS by Novell)
+NOS (developed by CDC for use in their Cyber line of supercomputers)
+Novell Open Enterprise Server (Open Source networking OS by Novell. Can incorporate either SUSE Linux or Novell NetWare as its kernel).
+Plan 9 (distributed OS developed at Bell Labs, based on Unix design principles but not functionally identical)
+Inferno (distributed OS derived from Plan 9, originally from Bell Labs)
+Plan B (distributed OS derived from Plan 9 and Off++ microkernel)
+SAN-OS by Cisco (now NX-OS)
+TurboDOS (Software 2000, Inc.)
+Generic, commodity, and other[edit]
+BLIS/COBOL
+Bluebottle also known as AOS (a concurrent and active object update to the Oberon operating system)
+BS1000 by Siemens AG
+BS2000 by Siemens AG, now BS2000/OSD from Fujitsu-Siemens Computers (formerly Siemens Nixdorf Informationssysteme)
+BS3000 by Siemens AG (functionally similar to OS-IV and MSP from Fujitsu)
+FLEX9 (by TSC for Motorola 6809 based machines; successor to FLEX, which was for Motorola 6800 CPUs)
+GEM (windowing GUI for CP/M, DOS, and Atari TOS)
+GEOS (popular windowing GUI for PC, Commodore, Apple computers)
+JavaOS
+JNode (Java New Operating System Design Effort), written 99% in Java (native compiled), provides own JVM and JIT compiler. Based on GNU Classpath.[9][10]
+JX Java operating system that focuses on a flexible and robust operating system architecture developed as an open source system by the University of Erlangen.
+KERNAL (default OS on Commodore 64)
+MERLIN for the Corvus Concept
+MorphOS (Amiga compatible)
+MSP by Fujitsu (successor to OS-IV), now MSP/EX,[11] also known as Extended System Architecture (EXA), for 31-bit mode
+NetWare (networking OS by Novell)
+Oberon (operating system) (developed at ETH-Zürich by Niklaus Wirth et al.) for the Ceres and Chameleon workstation projects
+OSD/XC by Fujitsu-Siemens (BS2000 ported to an emulation on a Sun SPARC platform)
+OS-IV by Fujitsu (based on early versions of IBM's MVS)
+Pick (often licensed and renamed)
+PRIMOS by Prime Computer (sometimes spelled PR1MOS and PR1ME)
+Sinclair QDOS (multitasking for the Sinclair QL computer)
+SSB-DOS (by TSC for Smoke Signal Broadcasting; a variant of FLEX in most respects)
+SymbOS (GUI based multitasking operating system for Z80 computers)
+Symobi (GUI based modern micro-kernel OS for x86, ARM and PowerPC processors, developed by Miray Software; used and developed further at Technical University of Munich)
+TripOS, 1978
+TurboDOS (Software 2000, Inc.)
+UCSD p-System (portable complete programming environment/operating system/virtual machine developed by a long running student project at UCSD; directed by Prof Kenneth Bowles; written in Pascal)
+VOS by Stratus Technologies with strong influence from Multics
+VOS3 by Hitachi for its IBM-compatible mainframes, based on IBM's MVS
+VM2000 by Siemens AG
+Visi On (first GUI for early PC machines; not commercially successful)
+VPS/VM (IBM based, main operating system at Boston University for over 10 years.)
+For Elektronika BK[edit]
+ANDOS
+CSI-DOS
+KMON
+MK-DOS
+Hobby[edit]
+AROS (AROS Research Operating System, formerly known as Amiga Research Operating System)
+AtheOS (branched to become Syllable Desktop)
+Syllable Desktop (a modern, independently originated OS; see AtheOS)
+BareMetal
+DexOS – 32-bit operating system written in x86 assembly
+DSPnano RTOS
+EmuTOS
+EROS (Extremely Reliable Operating System)
+HelenOS, based on a preemptible microkernel design
+LSE/OS
+MenuetOS (extremely compact OS with GUI, written entirely in FASM assembly language)
+KolibriOS (a fork of MenuetOS)
+S-OS (a minimal DOS for Z80 machines)
+Embedded[edit]
+Personal digital assistants (PDAs)[edit]
+DIP DOS on Atari Portfolio
+Embedded Linux
+Android
+Firefox OS
+Ångström distribution
+Familiar Linux
+Mæmo based on Debian deployed on Nokia's Nokia 770, N800 and N810 Internet Tablets.
+MeeGo merger of Moblin and Maemo
+OpenZaurus

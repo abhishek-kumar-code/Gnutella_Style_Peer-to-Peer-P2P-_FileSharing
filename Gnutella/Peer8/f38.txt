@@ -1,0 +1,90 @@
+webOS from Palm, Inc., later Hewlett-Packard via acquisition, and most recently at LG Electronics through acquisition from Hewlett-Packard[12]
+Inferno (distributed OS originally from Bell Labs)
+iOS
+Magic Cap
+MS-DOS on Poqet PC, HP 95LX, HP 100LX, HP 200LX, HP 1000CX, HP OmniGo 700LX
+NetBSD
+Newton OS on Apple MessagePad
+Palm OS from Palm, Inc; now spun off as PalmSource
+PEN/GEOS on HP OmniGo 100 and 120
+PenPoint OS
+Plan 9 from Bell Labs
+PVOS
+Symbian OS
+EPOC
+Windows CE, from Microsoft
+Pocket PC from Microsoft, a variant of Windows CE
+Windows Mobile from Microsoft, a variant of Windows CE
+Windows Phone from Microsoft
+Digital media players[edit]
+DSPnano RTOS
+iOS
+iPod software
+ipodlinux
+iriver clix OS
+RockBox
+Mobile phones and smartphones[edit]
+Main article: Mobile operating system
+BlackBerry OS
+Embedded Linux
+Access Linux Platform
+Android
+bada
+Firefox OS (project name: Boot to Gecko)
+Openmoko Linux
+OPhone
+MeeGo (from merger of Maemo & Moblin)
+Mobilinux
+MotoMagx
+Qt Extended
+Sailfish OS
+Tizen (earlier called LiMo Platform)
+Ubuntu Touch
+webOS
+PEN/GEOS, GEOS-SC, GEOS-SE
+iOS
+Palm OS
+Symbian platform (successor to Symbian OS)
+Windows Mobile (superseded by Windows Phone)
+BlackBerry 10
+Routers[edit]
+AlliedWare by Allied Telesis (aka Allied Telesyn)
+AirOS by Ubiquiti Networks
+CatOS by Cisco Systems
+Cisco IOS (originally Internetwork Operating System) by Cisco Systems
+DD-WRT by NewMedia-NET
+Inferno (distributed OS originally from Bell Labs)
+IOS-XR by Cisco Systems
+IronWare by Foundry Networks
+JunOS by Juniper Networks
+LibreWRT[13] GNU/Linux-libre
+OpenWrt
+RouterOS by Mikrotik
+ScreenOS by Juniper Networks, originally from Netscreen
+Timos by Alcatel-Lucent
+FTOS by Force10 Networks
+RTOS by Force10 Networks
+List of wireless router firmware projects
+Other embedded[edit]
+Contiki
+ERIKA Enterprise
+eCos
+NetBSD
+uClinux
+MINIX
+NCOS
+freeRTOS, openRTOS and safeRTOS
+OpenEmbedded (or Yocto Project)
+pSOS (Portable Software On Silicon)
+QNX Unix-like real-time operating system, aimed primarily at the embedded systems market.[14]
+REX OS (microkernel OS; usually an embedded cell phone OS)
+RIOT
+ROM-DOS
+TinyOS
+ThreadX
+DSPnano RTOS
+Windows Embedded
+Windows CE
+Windows Embedded Standard
+Windows Embedded Enterprise
+Windows Embedded POSReady

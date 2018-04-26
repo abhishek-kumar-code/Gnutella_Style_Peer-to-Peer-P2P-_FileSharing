@@ -1,0 +1,145 @@
+Acorn Computers[edit]
+Arthur
+ARX
+MOS
+RISC iX
+RISC OS
+Amiga Inc.[edit]
+AmigaOS
+AmigaOS 1.0-3.9 (Motorola 68000)
+AmigaOS 4 (PowerPC)
+Amiga Unix (aka Amix)
+Apple Inc.[edit]
+Apple II family
+Apple DOS
+Apple Pascal
+ProDOS
+GS/OS
+Apple III
+Apple SOS
+Apple Lisa
+Lisa Workshop[1]
+Lisa Operating System[2]
+Apple Macintosh
+Classic Mac OS
+A/UX (UNIX System V with BSD extensions)
+Rhapsody
+NeXTSTEP
+macOS (formerly Mac OS X and OS X)
+macOS Server (formerly Mac OS X Server and OS X Server)
+Apple Network Server
+IBM AIX (Apple-customized)
+Apple MessagePad
+Newton OS
+iPhone, iPod Touch, iPad
+iOS
+Apple Watch
+watchOS
+Apple TV
+tvOS
+Embedded operating systems
+A/ROSE
+iPod software (unnamed embedded OS for iPod)
+Unnamed NetBSD variant for Airport Extreme and Time Capsule
+Apollo Computer[edit]
+Domain/OS : One of the first network-based systems. Run on Apollo/Domain hardware. Later bought by Hewlett-Packard.
+Atari[edit]
+Atari DOS (for 8-bit computers)
+Atari TOS
+Atari MultiTOS
+BAE Systems[edit]
+XTS-400
+Be Inc.[edit]
+BeOS
+BeIA
+BeOS r5.1d0
+magnussoft ZETA (based on BeOS r5.1d0 source code, developed by yellowTAB)
+Bell Labs[edit]
+Unix ("Ken's new system," for its creator (Ken Thompson), officially Unics and then Unix, the prototypic operating system created in Bell Labs in 1969 that formed the basis for the Unix family of operating systems)
+UNIX Time-Sharing System v1
+UNIX Time-Sharing System v2
+UNIX Time-Sharing System v3
+UNIX Time-Sharing System v4
+UNIX Time-Sharing System v5
+UNIX Time-Sharing System v6
+MINI-UNIX
+PWB/UNIX
+USG
+CB Unix
+UNIX Time-Sharing System v7 (It is from Version 7 Unix (and, to an extent, its descendants listed below) that almost all Unix-based and Unix-like operating systems descend.)
+Unix System III
+Unix System IV
+Unix System V
+Unix System V Releases 2.0, 3.0, 3.2, 4.0, and 4.2
+UNIX Time-Sharing System v8
+UNIX TIme-Sharing System v9
+UNIX Time-Sharing System v10
+Non-Unix Operating Systems:
+BESYS
+Plan 9 from Bell Labs
+Bull SAS[edit]
+General Comprehensive Operating System (GCOS)
+Burroughs Corporation, Unisys[edit]
+Burroughs MCP
+Control Data Corporation[edit]
+Chippewa Operating System (COS)
+MACE (Mansfield and Cahlander Executive)
+Kronos (Kronographic OS)
+NOS (Network Operating System)
+NOS/BE NOS Batch Environment
+NOS/VE NOS Virtual Environment
+SCOPE (Supervisory Control Of Program Execution)
+SIPROS (for Simultaneous Processing Operating System)
+EP/IX (Enhanced Performance Unix)
+Convergent Technologies[edit]
+Convergent Technologies Operating System (later acquired by Unisys)
+Data General[edit]
+AOS for 16-bit Data General Eclipse computers and AOS/VS for 32-bit (MV series) Eclipses, MP/AOS for microNOVA-based computers
+DG/UX
+RDOS Real-time Disk Operating System, with variants: RTOS and DOS (not related to PC DOS, MS-DOS etc.)
+DataPoint[edit]
+CTOS Z-80 based, Cassette Tape Operating System for early desktop systems. Capable of up to 8 simultaneous users. Replaced by DataPoint DOS.
+DOS Intel 808x/80x86-based, Disk Operating Systems for desktop systems. Capable of up to 32 users per node. Supported a sophisticated network of nodes that were often purpose-built. The name DOS was used in these products login screens before it was popularized by IBM, Microsoft and others.
+DDC-I, Inc.[edit]
+Deos Time & Space Partitioned RTOS, Certified to DO-178B, Level A since 1998
+Heart
+
+
+
+
+
+
+Digital Research, Inc.[edit]
+CP/M
+CP/M CP/M for Intel 8080/8085 and Zilog Z80
+Personal CP/M, a refinement of CP/M
+CP/M Plus with BDOS 3.0
+CP/M-68K CP/M for Motorola 68000
+CP/M-8000 CP/M for Zilog Z8000
+CP/M-86 CP/M for Intel 8088/8086
+CP/M-86 Plus
+Personal CP/M-86
+MP/M Multi-user version of CP/M-80
+MP/M II
+MP/M-86 Multi-user version of CP/M-86
+MP/M 8-16, a dual-processor variant of MP/M for 8086 and 8080 CPUs.
+Concurrent CP/M, the successor of CP/M-80 and MP/M-80
+Concurrent CP/M-86, the successor of CP/M-86 and MP/M-86
+Concurrent CP/M 8-16, a dual-processor variant of Concurrent CP/M for 8086 and 8080 CPUs.
+Concurrent CP/M-68K, a variant for the 68000
+DOS
+for terminals
+FlexOS 286, a variant of FlexOS for hosts
+Siemens S5-DOS/MT, an industrial control system based on FlexOS
+IBM 4680 OS, a POS operating system based on FlexOS
+IBM 4690 OS, a POS operating system based on FlexOS
+Toshiba 4690 OS, a POS operating system based on IBM 4690 OS and FlexOS
+FlexOS 386, a later variant of FlexOS for hosts
+IBM 4690 OS, a POS operating system based on FlexOS
+Toshiba 4690 OS, a POS operating system based on IBM 4690 OS and FlexOS
+FlexOS 68K, a derivative of Concurrent DOS 68K
+Multiuser DOS, the successor of Concurrent DOS 386
+CCI Multiuser DOS
+Datapac Multiuser DOS
+Datapac System Manager, a derivative of Datapac Multiuser DOS
+IMS Multiuser DOSOS Posix-based Hard Real-Time Operating System
