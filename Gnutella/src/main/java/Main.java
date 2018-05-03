@@ -77,7 +77,7 @@ public class Main {
                 System.out.println("Please enter the filename(.txt) to be downloaded: ");
                 System.out.println("*********************************************************************************");
                 String f_name = scan.nextLine();			//Variable f_name of String class represents name of the file
-                //long startTime = System.currentTimeMillis();
+                long startTime = System.currentTimeMillis();
                 ++count;
                 msgid = peer_id+"."+count;
                 String[] neighbours = prop.getProperty("port"+ peer_id +".next").split(",");
@@ -85,7 +85,8 @@ public class Main {
                 {
                     int connectingport=Integer.parseInt(prop.getProperty("peer"+ neighbours[i]+ ".port"));
                     int neighbouringpeer=Integer.parseInt(neighbours[i]);
-                    System.out.println("Sending request to peer_id: "+ neighbours[i]);			//A request sent to the peer that has the requested file
+					System.out.println("Sending request to the peer_id...");
+                    //System.out.println("Sending request to peer_id: "+ neighbours[i]);			//A request sent to the peer that has the requested file
                     ClientThread cp = new ClientThread(connectingport,neighbouringpeer,f_name,msgid,peer_id);
                     Thread t = new Thread(cp);			//Creating a client thread for every neighbouring peer
                     t.start();			//ClientThread thread begins execution; the JVM calls the run method of this thread
@@ -103,7 +104,7 @@ public class Main {
                 }
                 int[] peerswithfiles;			//part on how to send data from the ConnectingPeer
 
-                System.out.println("Peers containing the requested file(s) are: ");
+                System.out.println("Generating peers containing the requested file(s)...");
                 for(int i=0;i<peers.size();i++)
                 {
                     //System.out.println("Result of thread"+i);
@@ -111,12 +112,12 @@ public class Main {
                     for(int j=0;j<peerswithfiles.length;j++)
                     {	if(peerswithfiles[j]==0)
                         break;
-                        System.out.println(peerswithfiles[j]);
+                        //System.out.println(peerswithfiles[j]);
                     }
                 }
                 //long endTime   = System.currentTimeMillis();
                 //long totalTime = endTime - startTime;
-                //System.out.println(totalTime);
+                
                 System.out.println("*********************************************************************************");
                 System.out.println("Enter the peer# from where to download the file: ");
                 int peerfromdownload=scan.nextInt();
@@ -124,6 +125,9 @@ public class Main {
                 ClientasServer(peerfromdownload,porttodownload,f_name,sharedDir);
                 System.out.println("3. File Transfer Confirmation: "+ f_name + " has been successfully downloaded from peer# " + peerfromdownload + " to peer# " + peer_id);
                 System.out.println("*******************************OUTPUT*********************************************");
+				long endTime   = System.currentTimeMillis();
+                long totalTime = endTime - startTime;
+				System.out.println("Time " + totalTime);
             }
             catch(IOException io)
             {
@@ -180,7 +184,8 @@ public class Main {
                 {
                     int connectingport=Integer.parseInt(prop.getProperty("peer"+neighbours[i]+".port"));
                     int neighbouringpeer=Integer.parseInt(neighbours[i]);
-                    System.out.println("Sending request to peer_id: " + neighbours[i]);			//A request sent to the peer that has the requested file
+					System.out.println("Sending request to the peer_id...");
+                    //System.out.println("Sending request to peer_id: " + neighbours[i]);			//A request sent to the peer that has the requested file
                     ClientThread cp=new ClientThread(connectingport,neighbouringpeer,f_name,msgid,peer_id);
                     Thread t=new Thread(cp);			//Creating a client thread for every neighbouring peer
                     t.start();			//ClientThread thread begins execution; the JVM calls the run method of this thread
@@ -198,7 +203,7 @@ public class Main {
                 }
                 int[] peerswithfiles;			//part on how to send data from the ConnectingPeer
 
-                System.out.println("Peers containing the requested file(s) are: ");
+				System.out.println("Generating peers containing the requested file(s)...");
                 for(int i=0;i<peers.size();i++)
                 {
                     //System.out.println("Result of thread"+i);
@@ -206,7 +211,7 @@ public class Main {
                     for(int j=0;j<peerswithfiles.length;j++)
                     {	if(peerswithfiles[j]==0)
                         break;
-                        System.out.println(peerswithfiles[j]);
+                        //System.out.println(peerswithfiles[j]);
                     }
                 }
                 System.out.println("*********************************************************************************");
